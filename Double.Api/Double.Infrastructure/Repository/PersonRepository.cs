@@ -22,8 +22,8 @@ namespace Double.Infrastructure.Repository
         }
         public async Task<IEnumerable<Person>> GetPersons()
         {
-            var persons = await _context.Persons.ToListAsync();
-            return persons;
+            return await _context.Persons.FromSqlRaw($"getPerons").ToArrayAsync();
+           
         }
         public async Task<Person> GetPerson(int id)
         {
