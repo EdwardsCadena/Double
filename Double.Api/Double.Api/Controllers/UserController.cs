@@ -13,7 +13,6 @@ using System.Data;
 
 namespace Double.Api.Controllers
 {
-    [Produces("application/json")]
     [Route("api/[controller]")]
     [ApiController]
     public class UserController : ControllerBase

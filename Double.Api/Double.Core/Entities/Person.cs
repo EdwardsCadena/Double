@@ -19,5 +19,7 @@ public partial class Person
 
     public DateTime? DateCreation { get; set; }
 
+    public string? NmaeLastNameConcat { get; set; }
+
 
 }

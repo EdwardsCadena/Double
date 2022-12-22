@@ -42,6 +42,10 @@ public partial class DoublepContext : DbContext
                 .HasMaxLength(10)
                 .IsUnicode(false)
                 .IsFixedLength();
+            entity.Property(e => e.NmaeLastNameConcat)
+                .HasMaxLength(101)
+                .IsUnicode(false)
+                .HasComputedColumnSql("(([name]+' ')+[lastname])", false);
 
         });
 
