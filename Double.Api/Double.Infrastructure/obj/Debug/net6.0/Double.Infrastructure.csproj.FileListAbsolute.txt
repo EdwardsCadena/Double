@@ -1,0 +1,17 @@
+F:\Repositories\Double\Double.Api\Double.Infrastructure\obj\Debug\net6.0\Double.Infrastructure.csproj.AssemblyReference.cache
+F:\Repositories\Double\Double.Api\Double.Infrastructure\obj\Debug\net6.0\Double.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositories\Double\Double.Api\Double.Infrastructure\obj\Debug\net6.0\Double.Infrastructure.AssemblyInfoInputs.cache
+F:\Repositories\Double\Double.Api\Double.Infrastructure\obj\Debug\net6.0\Double.Infrastructure.AssemblyInfo.cs
+F:\Repositories\Double\Double.Api\Double.Infrastructure\obj\Debug\net6.0\Double.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Repositories\Double\Double.Api\Double.Infrastructure\bin\Debug\net6.0\Double.Infrastructure.deps.json
+F:\Repositories\Double\Double.Api\Double.Infrastructure\bin\Debug\net6.0\Double.Infrastructure.runtimeconfig.json
+F:\Repositories\Double\Double.Api\Double.Infrastructure\bin\Debug\net6.0\Double.Infrastructure.dll
+F:\Repositories\Double\Double.Api\Double.Infrastructure\bin\Debug\net6.0\Double.Infrastructure.pdb
+F:\Repositories\Double\Double.Api\Double.Infrastructure\bin\Debug\net6.0\Double.Core.dll
+F:\Repositories\Double\Double.Api\Double.Infrastructure\bin\Debug\net6.0\Double.Core.pdb
+F:\Repositories\Double\Double.Api\Double.Infrastructure\obj\Debug\net6.0\Double.Infrastructure.csproj.CopyComplete
+F:\Repositories\Double\Double.Api\Double.Infrastructure\obj\Debug\net6.0\Double.Infrastructure.dll
+F:\Repositories\Double\Double.Api\Double.Infrastructure\obj\Debug\net6.0\refint\Double.Infrastructure.dll
+F:\Repositories\Double\Double.Api\Double.Infrastructure\obj\Debug\net6.0\Double.Infrastructure.pdb
+F:\Repositories\Double\Double.Api\Double.Infrastructure\obj\Debug\net6.0\Double.Infrastructure.genruntimeconfig.cache
+F:\Repositories\Double\Double.Api\Double.Infrastructure\obj\Debug\net6.0\ref\Double.Infrastructure.dll

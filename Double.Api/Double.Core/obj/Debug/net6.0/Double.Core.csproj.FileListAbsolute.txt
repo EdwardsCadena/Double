@@ -1,0 +1,12 @@
+F:\Repositories\Double\Double.Api\Double.Core\bin\Debug\net6.0\Double.Core.deps.json
+F:\Repositories\Double\Double.Api\Double.Core\bin\Debug\net6.0\Double.Core.dll
+F:\Repositories\Double\Double.Api\Double.Core\bin\Debug\net6.0\Double.Core.pdb
+F:\Repositories\Double\Double.Api\Double.Core\obj\Debug\net6.0\Double.Core.csproj.AssemblyReference.cache
+F:\Repositories\Double\Double.Api\Double.Core\obj\Debug\net6.0\Double.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositories\Double\Double.Api\Double.Core\obj\Debug\net6.0\Double.Core.AssemblyInfoInputs.cache
+F:\Repositories\Double\Double.Api\Double.Core\obj\Debug\net6.0\Double.Core.AssemblyInfo.cs
+F:\Repositories\Double\Double.Api\Double.Core\obj\Debug\net6.0\Double.Core.csproj.CoreCompileInputs.cache
+F:\Repositories\Double\Double.Api\Double.Core\obj\Debug\net6.0\Double.Core.dll
+F:\Repositories\Double\Double.Api\Double.Core\obj\Debug\net6.0\refint\Double.Core.dll
+F:\Repositories\Double\Double.Api\Double.Core\obj\Debug\net6.0\Double.Core.pdb
+F:\Repositories\Double\Double.Api\Double.Core\obj\Debug\net6.0\ref\Double.Core.dll
